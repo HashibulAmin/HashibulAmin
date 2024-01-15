@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ReactJS, NextJS, React-Native
 - 📫 How to reach me - https://www.linkedin.com/in/ihemel/
 
-Previously at [https://github.com/HashibulAmin/](here)
+Previously at [https://github.com/HashibulAmin/](https://github.com/hemel-cse)
